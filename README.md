@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![App Demo](https://user-images.githubusercontent.com/44858018/83452930-334f5500-a41f-11ea-8db2-a091672dc368.png)
 
 
 # Magic 8 Ball 🎱
